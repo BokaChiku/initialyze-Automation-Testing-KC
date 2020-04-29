@@ -124,6 +124,7 @@ public class Global
 					case "FIREFOX":
 					case "MFirefox":
 					case "firefox":
+					case "fireFox":
 						profile = new FirefoxProfile();
 						profile.setAcceptUntrustedCertificates(false);
 						profile.setAssumeUntrustedCertificateIssuer(false);
