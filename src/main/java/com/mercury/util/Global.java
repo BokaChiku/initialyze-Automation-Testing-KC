@@ -35,7 +35,7 @@ import enums.BrowserNames;
 
 /**
  * @author Kunal Chavan
- * @implNote I have added common functions in this class
+ * @implNote I have added common functions in this class.
  * @since 04/28/2020
  * @version 1.0
  */

@@ -37,7 +37,7 @@ import enums.BrowserNames;
 /**
  * @author Kunal Chavan
  * @implNote I'm creating two test cases for registration form 1) Smoke Testing 2)
- *           Functional/End-to-end Testing
+ *           Functional/End-to-end Testing.
  * @since 04/28/2020
  * @version 1.0
  */
