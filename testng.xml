@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="initialyze Automation Testing">
+	<test name="Registration Test">
+		<groups>
+			<run>
+				<include name="Smoke" />
+				<include name="Functional"/>	
+			</run>
+		</groups>
+		<packages>
+			<package name="com.mercury.registrationTestCase" />
+		</packages>
+	</test>
+</suite>
